@@ -1,0 +1,20 @@
+2021-12-15 13:06:46,183  INFO [main] BaseClass:38 - reading a value for a property: browser
+2021-12-15 13:06:46,186  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:46,187  INFO [main] BaseClass:54 - property value found in the file with key as: browser and value is: chrome
+2021-12-15 13:06:46,187  INFO [main] BaseClass:38 - reading a value for a property: chromeDriverfilePath
+2021-12-15 13:06:46,187  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:46,188  INFO [main] BaseClass:54 - property value found in the file with key as: chromeDriverfilePath and value is: Drivers/chromedriver.exe
+2021-12-15 13:06:49,059  INFO [main] BaseClass:74 - Chrome Browser initialized...
+2021-12-15 13:06:49,060  INFO [main] BaseClass:63 - Launching an Application..
+2021-12-15 13:06:49,061  INFO [main] BaseClass:38 - reading a value for a property: url
+2021-12-15 13:06:49,061  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:49,062  INFO [main] BaseClass:54 - property value found in the file with key as: url and value is: https://ingecnotechnologies.com/Other/CRM/index.php/site/login
+2021-12-15 13:06:51,308  INFO [main] BaseClass:38 - reading a value for a property: pageload
+2021-12-15 13:06:51,308  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:51,309  INFO [main] BaseClass:54 - property value found in the file with key as: pageload and value is: 30
+2021-12-15 13:06:51,314  INFO [main] BaseClass:38 - reading a value for a property: pageload
+2021-12-15 13:06:51,315  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:51,316  INFO [main] BaseClass:54 - property value found in the file with key as: pageload and value is: 30
+2021-12-15 13:06:51,326  INFO [main] BaseClass:38 - reading a value for a property: browser
+2021-12-15 13:06:51,327  INFO [main] BaseClass:42 - initializing property file
+2021-12-15 13:06:51,327  INFO [main] BaseClass:54 - property value found in the file with key as: browser and value is: chrome
